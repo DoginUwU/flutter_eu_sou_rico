@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![rubi-icon](https://user-images.githubusercontent.com/59850361/149023208-ad7c0a5a-ef21-4d17-bf2e-6091ed22adba.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
