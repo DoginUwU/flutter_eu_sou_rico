@@ -18,8 +18,7 @@ class EuSouRico extends StatelessWidget {
         backgroundColor: Colors.blueGrey,
         body: const Center(
           child: Image(
-            image: NetworkImage(
-                'https://i.pinimg.com/564x/dd/af/b8/ddafb8987859c1aba5501f1e548e89b7.jpg'),
+            image: AssetImage('assets/ruby.png'),
           ),
         ),
       ),
